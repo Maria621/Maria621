@@ -4,7 +4,7 @@ Bem-vindos(as) ao meu Perfil
 
 🌱 Hoje estou estudando para me tornar uma programadora Full Stack Jr.
 
-⚡ Trabalhando no Projeto Minas Na Área que esta sendo desenvolvodo para auxiliar nas ODS.
+⚡ Trabalhando no Projeto Minas Na Área que esta sendo desenvolvido para auxiliar nas ODS.
 
 😄 Pronouns: ela/dela
 
